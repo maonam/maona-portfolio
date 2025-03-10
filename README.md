@@ -8,3 +8,5 @@ assets . I excel in deep research and innovative problem-solving, driven by
 curiosity and a talent for building strong, collaborative relationships. Committed
 to making a positive impact, I lead by example – upholding values of kindness,
 diligence and efficiency in every endeavor.
+
+### Documents
